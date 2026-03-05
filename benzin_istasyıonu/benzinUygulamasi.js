@@ -11,6 +11,7 @@ Gelen müşterilerden aldıgımız bilgiler;
 
 */
 
+ıojıodoıdıoudoıduıod
 
 
 let dizel = 24.5;
